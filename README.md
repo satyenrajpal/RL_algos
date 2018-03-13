@@ -5,6 +5,11 @@ CartPole | MountainCar
  --- | --- | ---
  ![CartPole](/docs/CartPole.gif) | ![MountainCar](/docs/MountainCar.gif)
 
+| Tables        | Are           | Cool  |
+| ------------- |:-------------:| -----:|
+| col 3 is      | right-aligned | $1600 |
+| col 2 is      | centered      |   $12 |
+| zebra stripes | are neat      |    $1 |
 
 
 To run the program run- <br />
