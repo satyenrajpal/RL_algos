@@ -9,7 +9,7 @@ To run the program run- <br />
 `python DQN_Implementation.py` with the following arguments <br />
 | Argument                  | Description                                                                          |
 | ------------------------- | ------------------------------------------------------------------------------------ |
-| `--env=ENVIRONMENT_NAME`  | CartPole-v0, MountainCar-v0                                                          |  
+|   |                                                         |  
 | `--render=1 OR 0`         | variable to enable render(1) or not(0)                                               |
 | `--train=1 OR 0`          | variable to train(1) the model or not(0)                                             |
 | `--type=MODEL_TYPE`       | DQN,Dueling                                                                          |
@@ -22,9 +22,9 @@ To run the program run- <br />
 | col 2 is      | centered      |   $12 |
 | zebra stripes | are neat      |    $1 |
 
-Markdown | Less | Pretty
+Argument | Description
 --- | --- | ---
-*Still* | `renders` | **nicely**
+`--env=ENVIRONMENT_NAME`| CartPole-v0, MountainCar-v0 
 1 | 2 | 3
 
 HyperParameters have been sectioned for easy alteration. You should be able to locate them easily by just searching 'Hyper' and alter them as per your convenience.
