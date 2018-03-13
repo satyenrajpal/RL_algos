@@ -5,9 +5,9 @@ This is an implementation of the the DQN and Dueling architecture on the classic
  --- | --- | ---
  | 
 
-| CartPole      | Mountain Car  | 
-| ------------- | -------------:|
-|  ![CartPole](/docs/CartPole.gif)      | ![MountainCar](/docs/MountainCar.gif) |
+| CartPole                        | Mountain Car                          | 
+| ------------------------------- | -------------------------------------:|
+| ![CartPole](/docs/CartPole.gif) | ![MountainCar](/docs/MountainCar.gif) |
 
 
 To run the program run- <br />
