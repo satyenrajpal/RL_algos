@@ -3,8 +3,8 @@ This is an implementation of the the DQN and Dueling architecture on the classic
 
 Solutions-
 CartPole  | MountainCar 
-: -------------------------------:|:------------------------------------ |
-![CartPole](/docs/CartPole.gif)   | ![MountainCar](/docs/MountainCar.gif)|
+:------------------------------:|:------------------------------------ :
+![CartPole](/docs/CartPole.gif) | ![MountainCar](/docs/MountainCar.gif)
 
 
 
