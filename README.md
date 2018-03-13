@@ -1,15 +1,13 @@
 #RL_Classical_control
 This is an implementation of the the DQN and Dueling architecture on the classical control problems in OpenAI gym - [CartPole-v0](https://gym.openai.com/envs/CartPole-v0/) and [MountainCar-v0](https://gym.openai.com/envs/MountainCar-v0/)
 
-CartPole | MountainCar 
+| MountainCar 
  --- | --- | ---
  ![CartPole](/docs/CartPole.gif) | ![MountainCar](/docs/MountainCar.gif)
 
-| Tables        | Are           | Cool  |
-| ------------- |:-------------:| -----:|
-| col 3 is      | right-aligned | $1600 |
-| col 2 is      | centered      |   $12 |
-| zebra stripes | are neat      |    $1 |
+| CartPole      | Mountain Car  | 
+| ------------- | -------------:|
+| col 3 is      | right-aligned |
 
 
 To run the program run- <br />
