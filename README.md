@@ -23,8 +23,8 @@ To run the program run- <br />
 | zebra stripes | are neat      |    $1 |
 
 Argument | Description
---- | --- | ---
+--- | --- 
 `--env=ENVIRONMENT_NAME`| CartPole-v0, MountainCar-v0 
-1 | 2 | 3
+1 | 2
 
 HyperParameters have been sectioned for easy alteration. You should be able to locate them easily by just searching 'Hyper' and alter them as per your convenience.
