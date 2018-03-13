@@ -5,6 +5,11 @@ This is an implementation of the the DQN and Dueling architecture on the classic
 | ![CartPole](/docs/CartPole.gif) | ![MountainCar](/docs/MountainCar.gif) |
 
 
+Requirements-
+ - TensorFlow
+ - Keras
+ - Gym Box2D envs
+
 To run the program run- <br />
 `python DQN_Implementation.py` with the following arguments- <br />
 
