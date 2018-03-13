@@ -16,10 +16,15 @@ To run the program run- <br />
 | `--save_folder=FOLDER_DIR`| folder directory to save videos (Optional). Videos are not saved if nothing is given |
 | `--model_file=FILE_DIR`   | File directory of saved model(Optional). Nothing is done if not given                |
 
-| Tables        | Are           | Cool  |
+| Argument         | Are           | Cool  |
 | ------------- | -------------:| -----:|
 | col 3 is      | right-aligned | $1600 |
 | col 2 is      | centered      |   $12 |
 | zebra stripes | are neat      |    $1 |
+
+Markdown | Less | Pretty
+--- | --- | ---
+*Still* | `renders` | **nicely**
+1 | 2 | 3
 
 HyperParameters have been sectioned for easy alteration. You should be able to locate them easily by just searching 'Hyper' and alter them as per your convenience.
