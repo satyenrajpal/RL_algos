@@ -3,11 +3,11 @@ This is an implementation of the the DQN and Dueling architecture on the classic
 
 | MountainCar 
  --- | --- | ---
- ![CartPole](/docs/CartPole.gif) | ![MountainCar](/docs/MountainCar.gif)
+ | 
 
 | CartPole      | Mountain Car  | 
 | ------------- | -------------:|
-| col 3 is      | right-aligned |
+|  ![CartPole](/docs/CartPole.gif)      | ![MountainCar](/docs/MountainCar.gif) |
 
 
 To run the program run- <br />
