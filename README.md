@@ -1,8 +1,13 @@
-This is an implementation of the the DQN and Dueling architecture on the classical control problems in OpenAI gym - [CartPole-v0](https://gym.openai.com/envs/CartPole-v0/) and [MountainCar-v0](https://gym.openai.com/envs/MountainCar-v0/)
+Implementations of RL algorithms-
+- DQN
+- Advantage Actor-Critic
+- Imitation Learning
+- REINFORCE
+- Dueling DQN
 
-| CartPole                        | Mountain Car                          | 
-| ------------------------------- | ------------------------------------- |
-| ![CartPole](/docs/CartPole.gif) | ![MountainCar](/docs/MountainCar.gif) |
+| CartPole                        | Mountain Car                          | LunarLander                           | 
+| ------------------------------- | ------------------------------------- | ------------------------------------- | 
+| ![CartPole](/docs/CartPole.gif) | ![MountainCar](/docs/MountainCar.gif) | ![LunarLander](/docs/LunarLander.gif) |
 
 
 Requirements-
