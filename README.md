@@ -5,9 +5,9 @@ Implementations of RL algorithms-
 - REINFORCE
 - Dueling DQN
 
-| CartPole                        | Mountain Car                          | LunarLander                           | 
-| ------------------------------- | ------------------------------------- | ------------------------------------- | 
-| ![CartPole](/docs/CartPole.gif) | ![MountainCar](/docs/MountainCar.gif) | ![LunarLander](/docs/LunarLander.gif) |
+| CartPole                        | Mountain Car                          | LunarLander                             | 
+| ------------------------------- | ------------------------------------- | --------------------------------------- | 
+| ![CartPole](/docs/CartPole.gif) | ![MountainCar](/docs/MountainCar.gif) | ![LunarLander](/docs/LunarLander-2.gif) |
 
 
 Requirements-
