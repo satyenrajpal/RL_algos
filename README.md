@@ -1,3 +1,5 @@
+Disclaimer - This is a repository containing the assignments of 10703 - Deep Reinforcement Learning & Control Spring 2018. If you are currently taking the course, please do NOT refer to this. Any kind of code copying or referencing will be treated as plagiarism and results in serious disciplinary action at CMU.
+
 Implementations of RL algorithms-
 - DQN
 - Advantage Actor-Critic
@@ -20,7 +22,7 @@ To run DQN and Dueling DQN - <br />
 
 Argument | Description
 --- | --- 
-`--env=ENVIRONMENT_NAME`| CartPole-v0, MountainCar-v0, LunarLander-v0 
+`--env=ENVIRONMENT_NAME`| CartPole-v0, MountainCar-v0, LunarLander-v2 
 `--render=1 OR 0` | variable to enable render(1) or not(0)
 `--train=1 OR 0` |  variable to train(1) the model or not(0) 
 `--type=MODEL_TYPE` | DQN,Dueling
@@ -32,4 +34,4 @@ HyperParameters have been sectioned for easy alteration. You should be able to l
 To run - 
  - Advantage-Actor Critic - `python a2c.py` 
  - REINFORCE - `python reinforce.py --render`
- - Imitation - `python imitation --render` 
+ - Imitation - `python imitation --render`  (Weights are only for LunarLander-v2)
