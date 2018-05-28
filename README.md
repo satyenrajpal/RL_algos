@@ -1,4 +1,4 @@
-Disclaimer - This is a repository containing the assignments of 10703 - Deep Reinforcement Learning & Control Spring 2018. If you are currently taking the course, please do NOT refer to this. Any kind of code copying or referencing will be treated as plagiarism and results in serious disciplinary action at CMU.
+Disclaimer - This is a repository containing the assignments of 10703 - Deep Reinforcement Learning & Control for Spring'18. If you are currently taking the course, please do NOT refer to this repo. Any kind of code copying or referencing will be treated as plagiarism and results in serious disciplinary action at CMU.
 
 Implementations of RL algorithms-
 - DQN
